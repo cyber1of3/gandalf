@@ -35,4 +35,4 @@ Although not recommended, in some environments time is of the essence and it may
 <br><br>
 
 ## Local Acquisition
-If configuring JEA or a jumphost is not feasible, the next best option would be to acquire the artefacts on the machine itself; locally. This doesn't require any addition tooling or requirements and can be performed directly on the host, via a network share or via an external drive, such as a USB - different command line switches will be required though. Usage examples can be found in the [README.md](https://github.com/ezaspy/gandalf/blob/main/gandalf/README.md#Usage).<br><br><br>
+If configuring JEA or a jumphost is not feasible, the next best option would be to acquire the artefacts on the machine itself; locally. This doesn't require any addition tooling or requirements and can be performed directly on the host, via a network share or via an external drive, such as a USB - different command line switches will be required though. Usage examples can be found in the [README.md](https://github.com/cyberg3cko/gandalf/blob/main/gandalf/README.md#Usage).<br><br><br>

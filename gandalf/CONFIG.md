@@ -30,9 +30,9 @@ Target Host (Windows)<br>
 **Remember to revert any changes made, if necessary, after the artefacts have been acquired.**<br>
 
 ### hosts.list
-`sudo git clone https://github.com/ezaspy/gandalf.git`
-- Edit [...\gandalf\gandalf\hosts.list](https://github.com/ezaspy/gandalf/blob/main/gandalf/hosts.list)
-- Move [\gandalf](https://github.com/ezaspy/gandalf/tree/main/gandalf) to **acquisition** host<br><br>
+`sudo git clone https://github.com/cyberg3cko/gandalf.git`
+- Edit [...\gandalf\gandalf\hosts.list](https://github.com/cyberg3cko/gandalf/blob/main/gandalf/hosts.list)
+- Move [\gandalf](https://github.com/cyberg3cko/gandalf/tree/main/gandalf) to **acquisition** host<br><br>
 <br><br>
 
 ## Linux/macOS
@@ -53,9 +53,9 @@ Acquisition from Any Host
 
 ### hosts.list
 
-`sudo git clone https://github.com/ezaspy/gandalf.git`
-- Edit [.../gandalf/gandalf/hosts.list](https://github.com/ezaspy/gandalf/blob/main/gandalf/hosts.list)
-- Move [/gandalf](https://github.com/ezaspy/gandalf/tree/main/gandalf) to **acquisition** host
+`sudo git clone https://github.com/cyberg3cko/gandalf.git`
+- Edit [.../gandalf/gandalf/hosts.list](https://github.com/cyberg3cko/gandalf/blob/main/gandalf/hosts.list)
+- Move [/gandalf](https://github.com/cyberg3cko/gandalf/tree/main/gandalf) to **acquisition** host
 - sudo pip install -r requirements.txt<br><br>
 <br><br>
 

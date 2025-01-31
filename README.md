@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://github.com/ezaspy/gandalf"><img src="gandalf/images/logo_trans_big.png" alt="Logo" width="400" height="400"></a>
+  <a href="https://github.com/cyberg3cko/gandalf"><img src="gandalf/images/logo_trans_big.png" alt="Logo" width="400" height="400"></a>
   <p align="center">
     Forensics artefact acquisition scripts to be used in conjunction with elrond.
     <br><br>
-    <a href="https://mit-license.org"><img src="https://img.shields.io/github/license/ezaspy/gandalf" alt="License: MIT"></a>
-    <a href="https://github.com/ezaspy/gandalf/issues"><img src="https://img.shields.io/github/issues/ezaspy/gandalf" alt="Issues"></a>
-    <a href="https://github.com/ezaspy/gandalf/network/members"><img src="https://img.shields.io/github/forks/ezaspy/gandalf" alt="Forks"></a>
-    <a href="https://github.com/ezaspy/gandalf/stargazers"><img src="https://img.shields.io/github/stars/ezaspy/gandalf" alt="Stars"></a>
+    <a href="https://mit-license.org"><img src="https://img.shields.io/github/license/cyberg3cko/gandalf" alt="License: MIT"></a>
+    <a href="https://github.com/cyberg3cko/gandalf/issues"><img src="https://img.shields.io/github/issues/cyberg3cko/gandalf" alt="Issues"></a>
+    <a href="https://github.com/cyberg3cko/gandalf/network/members"><img src="https://img.shields.io/github/forks/cyberg3cko/gandalf" alt="Forks"></a>
+    <a href="https://github.com/cyberg3cko/gandalf/stargazers"><img src="https://img.shields.io/github/stars/cyberg3cko/gandalf" alt="Stars"></a>
     <a><img src="https://img.shields.io/badge/subject-DFIR-red" alt="Subject"></a>
-    <a><img src="https://img.shields.io/github/last-commit/ezaspy/gandalf" alt="Last Commit"></a>
+    <a><img src="https://img.shields.io/github/last-commit/cyberg3cko/gandalf" alt="Last Commit"></a>
     <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
     <br><br>
   </p>
@@ -36,7 +36,7 @@ gandalf has been created to help fellow digitial forensicators with the live col
 
 ### Related Projects
 
-gandalf is responsible for the acquisition-side of digital forensics, but what about analysis? [elrond](https://github.com/ezaspy/elrond), converts all of the artefacts to either JSON or CSV and can then stand up an on-the-fly [Splunk](https://www.splunk.com/) or [elastic](https://www.elastic.co/) instance whilst mapping the evidence within those artefacts to the [MITRE ATT&CK® Framework](https://attack.mitre.org/) using [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/), if desired.
+gandalf is responsible for the acquisition-side of digital forensics, but what about analysis? [elrond](https://github.com/cyberg3cko/elrond), converts all of the artefacts to either JSON or CSV and can then stand up an on-the-fly [Splunk](https://www.splunk.com/) or [elastic](https://www.elastic.co/) instance whilst mapping the evidence within those artefacts to the [MITRE ATT&CK® Framework](https://attack.mitre.org/) using [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/), if desired.
 <br><br><br>
 
 ## Configuration
@@ -62,12 +62,12 @@ Ensure all respective intermediate **firewalls do not block the acquisition**
 <br>
 
 Ensure you revert any changes made in preperation of forensic artefact acquisition.<br>
-Please review [SUPPORT.md](https://github.com/ezaspy/gandalf/blob/main/gandalf/SUPPORT.md) for instructions on how to leverage and deploy gandalf.
+Please review [SUPPORT.md](https://github.com/cyberg3cko/gandalf/blob/main/gandalf/SUPPORT.md) for instructions on how to leverage and deploy gandalf.
 <br><br><br>
 
 ## Usage
 
-Please read the [CONFIG.md](https://github.com/ezaspy/gandalf/blob/main/gandalf/CONFIG.md) file for instructions on how to enable PowerShell remoting (for Windows Targets) and SSH remoting (for Linux/macOS hosts).<br><br>
+Please read the [CONFIG.md](https://github.com/cyberg3cko/gandalf/blob/main/gandalf/CONFIG.md) file for instructions on how to enable PowerShell remoting (for Windows Targets) and SSH remoting (for Linux/macOS hosts).<br><br>
 
 ### Windows
 
